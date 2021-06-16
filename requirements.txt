@@ -1,0 +1,7 @@
+Django==3.0.5
+django-oauth-toolkit==1.5.0
+djangorestframework==3.12.4
+pytest==6.2.4
+pytest-cov==2.12.0
+pytest-django==4.3.0
+pytest-html==3.1.1
